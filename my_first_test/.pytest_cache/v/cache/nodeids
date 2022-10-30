@@ -1,0 +1,7 @@
+[
+  "test_main_pages.py::test_user_can_add",
+  "test_main_pages.py::test_user_can_go_to_books",
+  "test_main_pages.py::test_user_can_go_to_books_and_search",
+  "test_main_pages.py::test_user_can_go_to_offers",
+  "test_main_pages.py::test_user_can_translate"
+]
